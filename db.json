@@ -8,7 +8,9 @@
         },
         {
             "id": 2,
-            "title": "Post 2"
+            "name": "My Cetegory 2",
+            "category": "Regular",
+            "type": "System Defined"
         }
     ],
     "tagCategory": [
