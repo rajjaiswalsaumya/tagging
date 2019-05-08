@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+            "id": 1,
+            "name": "My Cetegory",
+            "category": "Suspicious",
+            "type": "User Defined"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        }
+    ],
+    "tagCategory": [
+        {
+            "id": 1,
+            "name": "Suspicious"
+        }
+    ],
+    "types": [
+        {
+            "id": 1,
+            "name": "UserDefined"
+        },
+        {
+            "id": 2,
+            "name": "System Defined"
+        }
+    ]
+}
