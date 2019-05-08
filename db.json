@@ -2,13 +2,13 @@
     "tags": [
         {
             "id": 1,
-            "name": "My Cetegory",
+            "name": "My Category",
             "category": "Suspicious",
             "type": "User Defined"
         },
         {
             "id": 2,
-            "name": "My Cetegory 2",
+            "name": "My Category 2",
             "category": "Regular",
             "type": "System Defined"
         }
